@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 
 
 
-###### ☕Supports
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L)
+## ☕Supports
+- USD($)
+  - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L)
+- KRW(₩)
+  - 💬KakaoPay ⋯ [https://link.kakaopay.com/_/MwuYcJJ](https://link.kakaopay.com/_/MwuYcJJ)  
