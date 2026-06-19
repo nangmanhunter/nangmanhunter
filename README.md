@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-## ☕Supports
+## Supports
 - USD($)
   - 🧡Kofi ... [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L)
 - KRW(₩)
