@@ -29,3 +29,18 @@ Here are some ideas to get you started:
 - KRW(₩)
   - 💬KakaoPay ... [https://link.kakaopay.com/_/MwuYcJJ](https://link.kakaopay.com/_/MwuYcJJ)
  
+
+
+
+
+## my-extensions
+- https://github.com/nangmanhunter/text-get
+- https://github.com/nangmanhunter/text-wrap
+- https://github.com/nangmanhunter/text-toggle
+
+
+
+## my-snippets
+- https://github.com/nangmanhunter/markdown-snippets
+- https://github.com/nangmanhunter/nuxtui-snippets
+
