@@ -21,26 +21,26 @@ Here are some ideas to get you started:
 - No`Answer`
 
 
+## MyExtensions
+| extensions  | urls                                         |
+| :---------- | :------------------------------------------- |
+| text-get    | https://github.com/nangmanhunter/text-get    |
+| text-wrap   | https://github.com/nangmanhunter/text-wrap   |
+| text-toggle | https://github.com/nangmanhunter/text-toggle |
+
+
+## MySnippets
+| snippets          | ulrs                                               |
+| :---------------- | :------------------------------------------------- |
+| markdown-snippets | https://github.com/nangmanhunter/markdown-snippets |
+| nuxtui-snippets   | https://github.com/nangmanhunter/nuxtui-snippets   |
+
+
 
 
 ## Supports
-- USD($)
-  - 🧡Kofi ... [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L)
-- KRW(₩)
-  - 💬KakaoPay ... [https://link.kakaopay.com/_/MwuYcJJ](https://link.kakaopay.com/_/MwuYcJJ)
+| keys   | values                                                                                          |
+| :----- | :---------------------------------------------------------------------------------------------- |
+| USD($) | 🧡Kofi ... [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L) |
+| KRW(₩) | 💬KakaoPay ... [https://link.kakaopay.com/_/MwuYcJJ](https://link.kakaopay.com/_/MwuYcJJ)      |
  
-
-
-
-
-## my-extensions
-- https://github.com/nangmanhunter/text-get
-- https://github.com/nangmanhunter/text-wrap
-- https://github.com/nangmanhunter/text-toggle
-
-
-
-## my-snippets
-- https://github.com/nangmanhunter/markdown-snippets
-- https://github.com/nangmanhunter/nuxtui-snippets
-
