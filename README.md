@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - No`Answer`
 
 
+##
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangmahunter&layout=compact&theme=dark)](https://github.com/nangmahunter/github-readme-stats)
+
+
 ## MyExtensions
 | extensions  | urls                                         |
 | :---------- | :------------------------------------------- |
