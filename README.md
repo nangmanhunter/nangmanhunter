@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  
 
 
-## Languages
+<!-- ## Languages
 <table>
   <thead>
     <tr>
@@ -108,4 +108,5 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
+
