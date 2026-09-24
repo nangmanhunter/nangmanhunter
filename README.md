@@ -50,3 +50,8 @@ Here are some ideas to get you started:
 ## 📊 Tech Stack & Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangmanhunter&layout=compact&theme=dark)](https://github.com/nangmanhunter/github-readme-stats)
 
+
+### 💻 Tech Stack
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
+
