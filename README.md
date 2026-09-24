@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 - No`Answer`
 
 
-##
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangmahunter&layout=compact&theme=dark)](https://github.com/nangmahunter/github-readme-stats)
-
-
 ## MyExtensions
 | extensions  | urls                                         |
 | :---------- | :------------------------------------------- |
@@ -48,3 +44,9 @@ Here are some ideas to get you started:
 | USD($) | 🧡Kofi ... [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L) |
 | KRW(₩) | 💬KakaoPay ... [https://link.kakaopay.com/_/MwuYcJJ](https://link.kakaopay.com/_/MwuYcJJ)      |
  
+
+
+
+## 📊 Tech Stack & Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangmanhunter&layout=compact&theme=dark)](https://github.com/nangmanhunter/github-readme-stats)
+
